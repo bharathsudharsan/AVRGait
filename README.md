@@ -17,13 +17,17 @@ Created a Virtual environment using python -m venv F:\Python_VENV\AVRGait & inst
 Commands used to activate virt_env and run the UI from cmd 
 
 F:
+
 cd \Python_VENV\AVRGait\Scripts
+
 .\activate
+
 cd \AVRGait
+
 python AVRGait_tkinter_UI.py
 
-Reference:
 
+Reference:
 https://pypi.org/project/sensormotion/
 
 
