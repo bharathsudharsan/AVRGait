@@ -1,6 +1,8 @@
 # AVRGait
 
-Python, Tkinter & sensormotion library based AVRGait - Aanalyse, Visualise & Report Parametersduring fitness activites. 
+Python, Tkinter & sensormotion library based AVRGait - Aanalyse, Visualise & Report Parameters during fitness activites. 
+
+Initally run the AVRGait_tkinter_UI.py script using "python AVRGait_tkinter_UI.py"
 
 When the Activity Level button is pressed from UI the pa.py code to find the Activity levels using the Datasets which are obtained from the wearable will be executed.
 
