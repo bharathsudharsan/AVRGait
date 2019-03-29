@@ -22,7 +22,7 @@ cd \Python_VENV\AVRGait\Scripts
 
 .\activate
 
-cd \AVRGait
+cd \AVRGait\Code
 
 python AVRGait_tkinter_UI.py
 
