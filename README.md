@@ -12,9 +12,10 @@ When Step Mean button from UI is pressed Step_Mean.py code will be executed. Thi
 
 How to run:
 
-Created a Virtual environment using python -m venv F:\Python_VENV\AVRGait & install necessary packages to run this Python and the Tkinter library based script.
+Created a Virtual environment using python -m venv F:\Python_VENV\AVRGait 
+& install necessary packages to run this Python and the Tkinter library based script.
 
-Commands used to activate virt_env and run the UI from cmd 
+Commands used to activate virt_env(Python_VENV) and run the UI from cmd 
 
 F:
 
