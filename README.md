@@ -1,37 +1,19 @@
-# AVRGait
+# AVRGait - Analyse, Visualise & Report Parameters during fitness activities. 
 
-Python, Tkinter & sensormotion library based AVRGait - Aanalyse, Visualise & Report Parameters during fitness activites. 
+Initially run the AVRGait_tkinter_UI.py script using "python AVRGait_tkinter_UI.py"
 
-Initally run the AVRGait_tkinter_UI.py script using "python AVRGait_tkinter_UI.py"
+When the Activity Level button is pressed from UI, the pa.py code to find the Activity levels using the Datasets which are obtained from the wearable will be executed.
 
-When the Activity Level button is pressed from UI the pa.py code to find the Activity levels using the Datasets which are obtained from the wearable will be executed.
+When the Step Counter button from UI is pressed, train.py code will be executed. This code is used to detect and count the number of steps using data from the .csv files stored in the directory. The .csv files contain sensor readings from the wearable
 
-When Step Counter button from UI is pressed train.py code will be executed. This code is used to detect and count the number of steps using data from the .csv files stored in the directory. The .csv files contains sensor readings from the wearable
+When the Cadence button from UI is pressed, the Cad.py code will be executed. This code is used to find out and display the number of steps per minute from the .csv file.
 
-When Cadence button from UI is pressed Cad.py code will be executed. This code is used to find out and display Number of steps per minute from the .csv file.
+When the Step Mean button from UI is pressed, Step_Mean.py code will be executed. This code is used to find out and display the mean time between all steps
 
-When Step Mean button from UI is pressed Step_Mean.py code will be executed. This code is used to find out and display Mean time between all steps
-
-How to run:
-
-Created a Virtual environment using python -m venv F:\Python_VENV\AVRGait 
-
-& install necessary packages to run this Python and the Tkinter library based script.
-
-Commands used to activate virt_env(Python_VENV) and run the UI from cmd 
-
-F:
-
-cd \Python_VENV\AVRGait\Scripts
-
-.\activate
-
-cd \AVRGait\Code
+Install necessary packages to run this Python and the Tkinter library-based script, then
 
 python AVRGait_tkinter_UI.py
 
 
 Reference:
 https://pypi.org/project/sensormotion/
-
-
