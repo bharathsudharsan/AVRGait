@@ -1,6 +1,6 @@
 # AVRGait - Analyse, Visualise & Report Parameters during fitness activities. 
 
-Initially run "python AVRGait_tkinter_UI.py", a UI will apprear with 5 interactable button.
+Run "python AVRGait_tkinter_UI.py", a UI will appear with 4 interactable buttons.
 
 1. When the Activity Level button is pressed from UI, the pa.py code to find the Activity levels using the Datasets which are obtained from the wearable will be executed.
 
@@ -9,7 +9,3 @@ Initially run "python AVRGait_tkinter_UI.py", a UI will apprear with 5 interacta
 3. When the Cadence button from UI is pressed, the Cad.py code will be executed. This code is used to find out and display the number of steps per minute from the .csv file.
 
 4. When the Step Mean button from UI is pressed, Step_Mean.py code will be executed. This code is used to find out and display the mean time between all steps
-
-
-Reference:
-https://pypi.org/project/sensormotion/
