@@ -1,4 +1,4 @@
-# AVRGait - Analyse, Visualise & Report parameters during fitness activities. 
+# AVRGait - Analyse, Visualise & Report parameters during fitness activities
 
 Run "python AVRGait_tkinter_UI.py" to open the AVRGait UI. 4 interactable buttons will appear.
 
