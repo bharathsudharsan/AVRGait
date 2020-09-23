@@ -8,4 +8,4 @@ Run "python AVRGait_tkinter_UI.py" to open the AVRGait UI. 4 interactable button
 
 3. When the Cadence button from UI is pressed, the Cad.py code will be executed. This code computes and displays the number of steps per minute using the data from the .csv file.
 
-4. When the Step Mean button from UI is pressed, Step_Mean.py code will be executed. This code computes the mean time between all steps
+4. When the Step Mean button from UI is pressed, Step_Mean.py code will be executed. This code computes the mean time between all steps.
